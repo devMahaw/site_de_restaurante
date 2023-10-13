@@ -14,3 +14,5 @@ Nesse projeto há uma landing page de um site para restaurantes dividida em 4 se
 
 - HTML
 - CSS
+- jQuery
+- Bootstrap
